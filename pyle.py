@@ -52,5 +52,4 @@ for e in range(1, num + 1):
     list.append(mult(e))
 
 print(f"Произведения чисел от 1 до {num}:  {list}")
-=======
->>>>>>> 492fca3f359fc753736c4dfd23d85421fba74f4e
+
