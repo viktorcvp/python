@@ -22,4 +22,4 @@ def sumNums(num):
 num = InputNumbers("Введите число: ")
 
 print(f"Сумма цифр = {sumNums(num)}")
-# new
+
